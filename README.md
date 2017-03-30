@@ -1,5 +1,4 @@
-# elasticsearch-CN
-官网同步更新-中文文档，有问题或建议请联系929936389@qq.com。校正好后会陆续放出所有章节，喜欢的话可以star一下，也是更新的动力喔
+
 ## [文档地址](https://github.com/13428282016/elasticsearch-CN/wiki/es-gettting-started)
 ## 阅读文档前先了解一下基本概念
 
