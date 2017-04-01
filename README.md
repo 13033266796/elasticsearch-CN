@@ -1,4 +1,4 @@
-
+## 持续更新中
 ## [文档地址](https://github.com/13428282016/elasticsearch-CN/wiki/es-gettting-started)
 ## 阅读文档前先了解一下基本概念
 
